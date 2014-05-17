@@ -1,7 +1,11 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-
+## Matrix - Get, set
+## Inverse - Get, set
 ## Write a short comment describing this function
+### TEST
+
+
 
 makeCacheMatrix <- function(x = matrix()) {
 	inv <- NULL
