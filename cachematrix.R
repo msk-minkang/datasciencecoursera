@@ -14,7 +14,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Computes the invesre of the special matrix returned by makeCacheMAtrix.
+## Computes the invesre of the special matrix returned by makeCacheMatrix.
 ## If the inverse has been calculated then it will retrieve from catch.
 ## i.e. saves computation time
 cacheSolve <- function(x, ...) {
