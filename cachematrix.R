@@ -12,7 +12,7 @@ makeCacheMatrix <- function(x = matrix()) {
 	list(set = set, get = get, setInverse = setInverse, getInverse = getInverse)
 	
 }
-
+ 
 
 ## Computes the invesre of the special matrix returned by makeCacheMatrix.
 ## If the inverse has been calculated then it will retrieve from catch.
